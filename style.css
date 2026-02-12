@@ -92,7 +92,7 @@ body {
   min-height: 100vh;
   display: flex;
   align-items: center;
-  background-image: url("../img/header-bg2.jpg");
+  background-image: url("header-bg2.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -437,3 +437,4 @@ footer .credit a {
     font-size: 55%;
   }
 }
+
